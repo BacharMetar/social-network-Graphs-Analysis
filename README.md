@@ -23,20 +23,8 @@ The algorithm was implemented in Python, leveraging the NetworkX library for gra
 To use the algorithm:
 
 1. Install the required dependencies (`networkx`, `matplotlib`, `pandas`, `tabulate`).
-2. Load your graph data into the appropriate format (e.g., CSV file).
+2. Load your graph data into the appropriate format (CSV file).
 3. Choose algorithm parameters such as freezing threshold and maximum iterations.
 4. Run the algorithm and visualize the results using the provided functions.
 
 For detailed usage instructions and examples, refer to the project documentation.
-
-## Contributions
-
-Contributions to the project are welcome! If you encounter any issues, have ideas for improvements, or would like to contribute code, please open an issue or submit a pull request following the contribution guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-## Acknowledgements
-
-Special thanks to the developers of the NetworkX library for providing powerful tools for graph analysis and visualization.
