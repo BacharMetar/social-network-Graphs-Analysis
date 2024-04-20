@@ -1,4 +1,4 @@
-# Community Detection Algorithm
+# Graphs Community Detection Algorithm - Label Propagation
 
 ## Overview
 
